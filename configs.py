@@ -30,11 +30,11 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 📡 **Hosted on:** [Heroku](https://heroku.com)
 
-🧑🏻‍💻 **Developer:** @AbirHasan2005
+🧑🏻‍💻 **Developer:** 
 
-👥 **Support Group:** [qwikdeals](https://t.me/qwikdeals_in)
+👥 **Support Group:** [deals of the day](https://t.me/joinchat/SUJ_BVd15uNq1iWw)
 
-📢 **[ anime news ](https://t.me/anime_support)
+📢 **anime news:**[anime news](https://t.me/anime_support)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 
