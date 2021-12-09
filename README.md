@@ -41,7 +41,7 @@
 
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/infernoscorpion/PyroFilesStoreBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/infernoscorpion/PyroFilesStoreBot.git)
 
 ## Commands:
 ```
