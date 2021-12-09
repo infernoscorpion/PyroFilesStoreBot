@@ -32,7 +32,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** 
 
-👥 **Support Group:** [deals of the day](https://t.me/joinchat/SUJ_BVd15uNq1iWw)
+👥 **Support Group:** [qwikdeals.in](https://t.me/qwikdeals_in)
 
 📢 **anime news:**[anime news](https://t.me/anime_support)
 """
