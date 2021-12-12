@@ -37,7 +37,7 @@ async def start(bot: Client, cmd: Message):
         if back == 400:
             return
     
-    usr_cmd = cmd.text.split("_", 1)[-1]
+    usr_cmd = cmd.text.split("_", 2)[-1]
     if usr_cmd == "/start":
         await AddUserToDatabase(bot, cmd)
         await cmd.reply_text(
